@@ -7,6 +7,7 @@ to-do list:
 - [ ] Team-level statistics (week 5/6) __Davin__
 - [ ] Models 
     - [ ] Logistic regression (week 8) __Davin__
+    - [ ] SVM (week 8) __Max__
 - [ ] Final presentation (week 12)
 - [ ] Technical report (week 13)
 - [ ] TF-IDF work (week ?) __Hai__
