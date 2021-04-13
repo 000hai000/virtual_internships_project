@@ -4,7 +4,7 @@ to-do list:
 - [x] Create roadmap
 - [ ] Data cleaning (week 5) __Alisha__
 - [ ] Team-level statistics (week 5/6) __Davin__
-- [ ] Tableau dashboard - team level statistics __Rishikha__
+- [x] Tableau dashboard - team level statistics __Rishikha__
 - [ ] Models 
     - [ ] Logistic regression (week 8) __Davin__
     - [ ] SVM (week 8) __Max__
