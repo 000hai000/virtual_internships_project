@@ -3,10 +3,11 @@
 to-do list:
 - [x] Create roadmap
 - [ ] Data cleaning (week 5) __Alisha__
-- [ ] Team-level statistics (week 5/6) __Davin__
+- [x] Team-level statistics (week 5/6) __Davin__
 - [x] Tableau dashboard - team level statistics __Rishikha__
-- [ ] Models 
+- [ ] Models
     - [ ] Logistic regression (week 8) __Davin__
+    - [x] Team level - decision tree __Davin__
     - [ ] SVM (week 8) __Max__
     - [x] Logistic regression - 44.2% __Rishikha__
     - [x] Random forest regression- 13.56 __Rishikha__
